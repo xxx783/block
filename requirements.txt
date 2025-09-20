@@ -1,0 +1,7 @@
+Flask
+Flask-WTF
+Flask-SQLAlchemy
+Flask-Mail
+Werkzeug
+pytz
+markdown
